@@ -3,10 +3,22 @@
 	"ignore": "test",
 	"package": [
 		{
+			"checksumSHA1": "OfHbisNes0gI+S16gYBreh7Riv8=",
+			"path": "github.com/PuerkitoBio/goquery",
+			"revision": "152b1a2c8f5d0340f658bb656032a39b94e52958",
+			"revisionTime": "2016-08-31T16:22:11Z"
+		},
+		{
 			"checksumSHA1": "dE1TAdRkHqFphHxTyhU8QqZwlYM=",
 			"path": "github.com/VividCortex/gohistogram",
 			"revision": "51564d9861991fb0ad0f531c99ef602d0f9866e6",
 			"revisionTime": "2016-08-22T18:46:21Z"
+		},
+		{
+			"checksumSHA1": "0cyj4kaj9Q0e9S55BPIr2zBuwvo=",
+			"path": "github.com/andybalholm/cascadia",
+			"revision": "65919c611220063037b1db8eb334acaf17a6d8ea",
+			"revisionTime": "2016-10-18T13:42:59Z"
 		},
 		{
 			"checksumSHA1": "B6ZUzckOOwd699eDnJIPqDiWB0I=",
@@ -304,6 +316,16 @@
 		{
 			"checksumSHA1": "9jjO5GjLa0XF/nfWihF02RoH4qc=",
 			"path": "golang.org/x/net/context",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "vqc3a+oTUGX8PmD0TS+qQ7gmN8I=",
+			"path": "golang.org/x/net/html",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "00eQaGynDYrv3tL+C7l9xH0IDZg=",
+			"path": "golang.org/x/net/html/atom",
 			"revision": ""
 		},
 		{
