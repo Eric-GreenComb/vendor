@@ -251,6 +251,18 @@
 			"revisionTime": "2016-10-05T15:16:09Z"
 		},
 		{
+			"checksumSHA1": "8Y05Pz7onrQPcVWW6JStSsYRh6E=",
+			"path": "github.com/pelletier/go-buffruneio",
+			"revision": "df1e16fde7fc330a0ca68167c23bf7ed6ac31d6d",
+			"revisionTime": "2016-01-24T19:35:03Z"
+		},
+		{
+			"checksumSHA1": "n+1TqBSxUOC3ajo+8ZgQHgpQTsw=",
+			"path": "github.com/pelletier/go-toml",
+			"revision": "ce7be745f09fe4ff89af8e3ea744e1deabf20ee3",
+			"revisionTime": "2016-12-03T11:32:16Z"
+		},
+		{
 			"checksumSHA1": "GGb6UcrDCNMWWIjyjDgvauGw9qI=",
 			"path": "github.com/prometheus/client_golang/prometheus",
 			"revision": "e56081f7b9d0c522b3b3b3ef154be6d74001382f",
